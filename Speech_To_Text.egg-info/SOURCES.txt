@@ -1,0 +1,7 @@
+README.md
+setup.py
+Speech_To_Text.egg-info/PKG-INFO
+Speech_To_Text.egg-info/SOURCES.txt
+Speech_To_Text.egg-info/dependency_links.txt
+Speech_To_Text.egg-info/requires.txt
+Speech_To_Text.egg-info/top_level.txt
